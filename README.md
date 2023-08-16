@@ -3,8 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <title>Cafe Menu</title>
-    <style></style>
-  </head>
+</head>
   <body>
     <main>
       <h1>CAMPER CAFE</h1>
@@ -13,4 +12,7 @@
         <h2>Coffee</h2>
       </section>
     </main>
-    
+    <style>
+      h1 {text-align: center
+      }
+    </style>
