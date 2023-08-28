@@ -9,9 +9,7 @@
   <body>
     <div class="menu">
       <main>
-        <h1>CAMPER CAFE</h1>
-        <p>Est. 2020</p>
-        <section>
+ <section>
           <h2>Coffee</h2>
           <article class="item">
             <p class="flavor">French Vanilla</p><p class="price">3.00</p>
@@ -33,6 +31,15 @@
           <h2>Desserts</h2>
           <article class="item">
             <p class="dessert">Donut</p><p class="price">1.50</p>
+          </article>
+          <article class="item">
+            <p class="dessert">Cherry Pie</p><p class="price">2.75</p>
+          </article>
+          <article class="item">
+            <p class="dessert">Cheesecake</p><p class="price">3.00</p>
+          </article>
+          <article class="item">
+            <p class="dessert">Cinnamon Roll</p><p class="price">2.50</p>
           </article>
         </section>
       </main>
