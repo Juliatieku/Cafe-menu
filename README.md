@@ -8,8 +8,11 @@
   </head>
   <body>
     <div class="menu">
-      <main>
- <section>
+   <main>
+        <h1>CAMPER CAFE</h1>
+        <p class="established">Est. 2020</p>
+        <hr>
+        <section>
           <h2>Coffee</h2>
           <article class="item">
             <p class="flavor">French Vanilla</p><p class="price">3.00</p>
@@ -43,6 +46,12 @@
           </article>
         </section>
       </main>
+      <footer>
+        <p>
+          <a href="https://www.freecodecamp.org" target="_blank">Visit our website</a>
+        </p>
+        <p>123 Free Code Camp Drive</p>
+      </footer>
     </div>
   </body>
-</html>
+</html> 
