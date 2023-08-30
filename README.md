@@ -3,12 +3,11 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Cafe Menu</title>
-    <link href="styles.css" rel="stylesheet"/>
+   <link href="styles.css" rel="stylesheet"/>
   </head>
   <body>
     <div class="menu">
-   <main>
+      <main>
         <h1>CAMPER CAFE</h1>
         <p class="established">Est. 2020</p>
         <hr>
@@ -46,6 +45,7 @@
           </article>
         </section>
       </main>
+      <hr class="bottom-line">
       <footer>
         <p>
           <a href="https://www.freecodecamp.org" target="_blank">Visit our website</a>
@@ -54,4 +54,4 @@
       </footer>
     </div>
   </body>
-</html> 
+</html>
