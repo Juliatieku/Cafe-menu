@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-   <link href="styles.css" rel="stylesheet"/>
+    <link href="styles.css" rel="stylesheet"/>
   </head>
   <body>
     <div class="menu">
@@ -13,6 +13,7 @@
         <hr>
         <section>
           <h2>Coffee</h2>
+          <img src="https://cdn.freecodecamp.org/curriculum/css-cafe/coffee.jpg" alt="coffee icon"/>
           <article class="item">
             <p class="flavor">French Vanilla</p><p class="price">3.00</p>
           </article>
@@ -31,6 +32,7 @@
         </section>
         <section>
           <h2>Desserts</h2>
+          <img src="https://cdn.freecodecamp.org/curriculum/css-cafe/pie.jpg" alt="pie icon"/>
           <article class="item">
             <p class="dessert">Donut</p><p class="price">1.50</p>
           </article>
@@ -50,7 +52,7 @@
         <p>
           <a href="https://www.freecodecamp.org" target="_blank">Visit our website</a>
         </p>
-        <p>123 Free Code Camp Drive</p>
+        <p class="address">123 Free Code Camp Drive</p>
       </footer>
     </div>
   </body>
